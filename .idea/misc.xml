@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/drawable/app_gradient.xml" value="0.3385416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/drawable/button.xml" value="0.3385416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/drawable/circular_progress_bar.xml" value="0.4635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/drawable/circular_shape.xml" value="0.4635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/layout/activity_data.xml" value="0.5385416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/layout/activity_settings.xml" value="0.5385416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/layout/content_data.xml" value="0.5385416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/layout/list_item_event.xml" value="0.5385416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/menu/activity_menu.xml" value="0.5385416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MVCApp/app/src/main/res/menu/activity_settings_menu.xml" value="0.3484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5385416666666667" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
